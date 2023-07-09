@@ -8,6 +8,7 @@ Hardware configuration to match these files:
 -Phase and Hall wires all connected color to color.
 -White temperature write from motor connected to white 75100 temperature wire.
 -Throttle power sourced from the 3.3V of the 75100.
+-Throttle signal wire connected to ADC1
 -48V (13S) battery with at least 50A of current sourcing ability.
 
 VESC Tool and VESC firmware versions:
